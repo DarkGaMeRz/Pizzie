@@ -13,7 +13,7 @@ public class Home extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+/*
         Button flashDealBut = (Button)findViewById(R.id.button);
         Button cSB = (Button)findViewById(R.id.button2);
         Button pMB = (Button)findViewById(R.id.button3);
@@ -50,6 +50,8 @@ public class Home extends AppCompatActivity {
                 startActivity(int4);
             }
         });
+
+ */
     }
 
 }
