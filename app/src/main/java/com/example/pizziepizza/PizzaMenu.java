@@ -1,4 +1,6 @@
 package com.example.pizziepizza;
 
-public class PizzaMenu extends Home {
+import androidx.fragment.app.Fragment;
+
+public class PizzaMenu extends Fragment {
 }

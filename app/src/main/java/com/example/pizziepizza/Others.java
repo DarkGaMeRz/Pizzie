@@ -1,5 +1,7 @@
 package com.example.pizziepizza;
 
-public class Others extends Home {
+import androidx.fragment.app.Fragment;
+
+public class Others extends Fragment {
 
 }
