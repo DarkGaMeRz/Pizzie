@@ -14,10 +14,10 @@ public class Home extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button fDB = (Button)findViewById(R.id.button);
-        Button cSB = (Button)findViewById(R.id.button2);
-        Button pMB = (Button)findViewById(R.id.button3);
-        Button oB = (Button)findViewById(R.id.button4);
+        Button fDB = (Button)findViewById(R.id.flashDeal);
+        Button cSB = (Button)findViewById(R.id.comboSet);
+        Button pMB = (Button)findViewById(R.id.pizzaMenu);
+        Button oB = (Button)findViewById(R.id.others);
 
         fDB.setOnClickListener(new View.OnClickListener() {
             @Override
